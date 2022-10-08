@@ -1,2 +1,4 @@
-# git_test
+# gittest
 hello
+
+echo "lilith is the fucking best!!"
